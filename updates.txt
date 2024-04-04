@@ -7,11 +7,11 @@ MessageExpirationDate = 04/04/2024
 
 [Update]
 Name = Savvy Phone
-ProductVersion = 36.0.0.84
-URL = https://github.com/tedtalksbits/tinyphone/releases/download/v36.0.0.84/SavvyApp_SavvyPhone.exe
-Size = 3047424
-SHA256 = A4FC2A0C3CD2AC1A1CFB434638628014F3CF3ABC0674F34DD2E54C1A32C7F592
-MD5 = 00b8aa7496d432dd70c15be63e1f9d69
-ServerFileName = tinyphone_installer.msi
+ProductVersion = 1.0.0.0
+URL = https://github.com/tedtalksbits/tinyphone/releases/download/v1.0.0.0/SavvyApp_SavvyPhone.exe
+Size = 189848701
+SHA256 = C8A482AED82E2A2B464BEE9593FD7301B6D98E8B51640475AB542E4F6A45183F
+MD5 = f6732bd2d3a117bb4a04741cc3d0e6ad
+ServerFileName = SavvyApp_SavvyPhone_With_Updater.exe
 RegistryKey = HKLM\Software\Answering Legal\Savvy Phone\Version
-Version = 36.0.0.84
+Version = 1.0.0.0
