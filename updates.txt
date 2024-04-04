@@ -8,7 +8,7 @@ MessageExpirationDate = 04/04/2024
 [Update]
 Name = Savvy Phone
 ProductVersion = 36.0.0.84
-URL = http://www.example.com/downloads/tinyphone_installer.msi
+URL = https://github.com/tedtalksbits/tinyphone/releases/download/v36.0.0.84/SavvyApp_SavvyPhone.exe
 Size = 3047424
 SHA256 = A4FC2A0C3CD2AC1A1CFB434638628014F3CF3ABC0674F34DD2E54C1A32C7F592
 MD5 = 00b8aa7496d432dd70c15be63e1f9d69
