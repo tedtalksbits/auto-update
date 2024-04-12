@@ -14,4 +14,4 @@ ServerFileName = SavvyAppsInstaller.exe
 RegistryKey = HKUD\Software\Ring Savvy\Savvy Phone\Version
 Version = 1.0.1.0
 AutoCloseApplication = "C:\Program Files (x86)\Tinyphone\tinyphone.exe"|;;NoRestart
-AutoCloseApplication1 = "C:\Program Files\SavvyApp\SavvyApp.exe"|;;NoRestart
+AutoCloseApplication1 = "C:\Program Files\Savvy App\Savvy App.exe"|;;NoRestart
