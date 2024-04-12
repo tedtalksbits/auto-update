@@ -11,8 +11,6 @@ ProductVersion = 1.0.1.0
 URL = https://github.com/tedtalksbits/tinyphone/releases/download/v37.0.0.1/SavvyAppsInstaller.exe
 Size = 92921094
 ServerFileName = SavvyAppsInstaller.exe
-Flags = IsPatch
 RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller
 Version = 1.0.1.0
-AutoCloseApplication = "C:\Program Files (x86)\Tinyphone\tinyphone.exe"|;;NoRestart
-AutoCloseApplication1 = "C:\Program Files\Savvy App\Savvy App.exe"|;;NoRestart
+
