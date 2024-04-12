@@ -7,11 +7,11 @@ MessageExpirationDate = 04/04/2024
 
 [Update]
 Name = Savvy Phone
-ProductVersion = 1.0.1.0
+ProductVersion = 1.0.1
 URL = https://github.com/tedtalksbits/tinyphone/releases/download/v37.0.0.1/SavvyAppsInstaller.exe
-Size = 92920802
+Size = 92921314
 ServerFileName = SavvyAppsInstaller.exe
 RegistryKey = HKUD\Software\Ring Savvy\Savvy Phone\Version
-Version = 1.0.1.0
+Version = 1.0.1
 AutoCloseApplication = "C:\Program Files (x86)\Tinyphone\tinyphone.exe"|;;NoRestart
 AutoCloseApplication1 = "C:\Program Files\Savvy App\Savvy App.exe"|;;NoRestart
