@@ -2,14 +2,14 @@
 
 [Update]
 Name = SavvyAppsInstaller
-ProductVersion = 2.0.2
-URL = https://github.com/tedtalksbits/tinyphone/releases/download/2.0.2/SavvyAppsInstaller.exe
-Size = 92924368
-SHA256 = D98AA1AEE1E6B533C9D9D55EABD299A64C7B9C82C00E0D0ED23348F9897B9260
-MD5 = 751e9f6e455f04797aa1c241478c8b4e
+ProductVersion = 3.0.0
+URL = http://www.example.com/downloads/SavvyAppsInstaller.exe
+Size = 93111078
+SHA256 = BB3FAC2FC080F92378AE467B863904F3AF72039C0150BEB91BBD9D1103D92915
+MD5 = 520aa429a10b8dddbbe94ac06ecf2ea6
 ServerFileName = SavvyAppsInstaller.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller\Version
-Version = 2.0.2
-Description = Update 2.0.2
-Feature = *new .txt file
+Version = 3.0.0
+Description = Feature: cleanly remove installed apps
+Enhancement = Full app removal
