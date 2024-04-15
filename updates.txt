@@ -1,15 +1,16 @@
 ;aiu;
 
-[General]
-MessageTitle = Let's go updater
-MessageBody = Message will go here
-MessageExpirationDate = 12/04/2024
-
 [Update]
-Name = Savvy Phone
-ProductVersion = 1.0.1
-URL = https://github.com/tedtalksbits/tinyphone/releases/download/v37.0.0.1/SavvyAppsInstaller.exe
-Size = 92931192
+Name = SavvyAppsInstaller
+ProductVersion = 2.0.1
+URL = https://github.com/tedtalksbits/tinyphone/releases/download/v2.0.0/SavvyAppsInstaller.exe
+Size = 92924341
+SHA256 = 56A58164FCBD968D65355E5B1981F83E8B69150C1E2C1D57620317C362C2E8E8
+MD5 = 937edb3c77928343d315768e6b38cc50
 ServerFileName = SavvyAppsInstaller.exe
-RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller
-Version = 1.0.1.0
+Flags = Critical
+RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller\Version
+Version = 2.0.1
+Description = New features
+Feature = Updater shortcut
+Feature1 = Savvy App shortcut
