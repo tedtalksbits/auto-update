@@ -3,7 +3,7 @@
 [Update]
 Name = SavvyAppsInstaller
 ProductVersion = 3.0.0
-URL = http://www.example.com/downloads/SavvyAppsInstaller.exe
+URL = https://github.com/tedtalksbits/tinyphone/releases/download/v3.0.0/SavvyAppsInstaller.exe
 Size = 93111078
 SHA256 = BB3FAC2FC080F92378AE467B863904F3AF72039C0150BEB91BBD9D1103D92915
 MD5 = 520aa429a10b8dddbbe94ac06ecf2ea6
