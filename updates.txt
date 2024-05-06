@@ -3,9 +3,7 @@
 [Update]
 Name = SavvyAppsInstaller
 ProductVersion = 3.0.3
-URL = https://download.cticloud.us/SavvyAppsInstaller.exe
-SHA256 = 12F1536568F466B6DC2E35B5BBBB73C0706E8EA07992C022A6BBFD799FB780B7
-MD5 = 6aea1c6a333deed7ba43eb330da810c1
+URL = https://download.cticloud.us/SavvyInstaller.exe
 ServerFileName = SavvyAppsInstaller.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Ring Savvy\SavvyAppsInstaller\Version
